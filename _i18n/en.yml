@@ -1,0 +1,38 @@
+site:
+  title: "eosDAC"
+  description: "The Community-Owned WAX Block Producer and DAC Enabler"
+header:
+  #vote: "Vote eosdacserver"
+  #mclient: "Member Client"
+news:
+  #steemit: "Steemit"
+  #youtube: "Youtube"
+  #twitter: "Twitter"
+  #more: "Read more"
+  #back: "Back"
+  #prev: "Previous"
+  #next: "Next"
+pages:
+  
+  community: "WAX Guides"
+  tools: "Block Production"
+  news: "eosDAC Guild Reports"
+  wax-news: "Wax News"
+  
+newsletterForm:
+  name: "Name"
+  email: "Email *"
+  language: "Language *"
+  subscribe: "Subscribe"
+  success: "Thank you, your records have been updated!"
+  error: "Error"
+#scatterVote:
+  #voting: "Voting..."
+  #thanks: "Thanks for voting!"
+  #proxy: "Voted proxy: "
+  #modalHead: "You already selected 30 BPs"
+  #modalBody: "Free up one spot, to cast a vote for"
+  #cancel: "Cancel"
+  #vote: "Vote now"
+  #noSupport: "does not support eosDAC. Please consider another proxy!"
+  #noProxy: "is not a proxy anymore. Please choose another proxy!"

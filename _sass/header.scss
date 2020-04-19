@@ -1,0 +1,50 @@
+//TODO: only for big screens
+nav.navbar {
+    padding: 0 16px;
+}
+.nav-tabs a.nav-link {
+    text-transform: none;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 19px 8px;
+    @media (max-width: $break-point-mobile) {
+        padding: 7px 0;
+    }
+}
+.nav-tabs a.nav-link.active {
+    font-weight: 500;
+}
+.dropdown-menu a.dropdown-item {
+    @media (max-width: $break-point-mobile) {
+        min-height: 35px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+}
+
+ul.navbar-nav {
+    @media (max-width: $break-point-mobile) {
+        margin-left: 5px;
+    }
+}
+
+// Language Selector
+nav .nav-item.dropdown img {
+    margin-bottom: 3px;
+}
+
+// Buttons at the top right
+nav .nav-buttons {
+    @media (max-width: $break-point-mobile) {
+        display: block;
+        text-align: center;
+    }
+}
+nav .nav-buttons > a.btn {
+    padding: .46875rem 1rem;
+    margin-top: 0;
+    min-width: 150px;
+}
+nav .nav-buttons > a:first-of-type {
+    margin-right: 10px;
+}
