@@ -1,0 +1,23 @@
+.member-client .sec1 p:first-of-type {
+    margin-bottom: 50px;
+}
+.member-client .sec1 .box img {
+    width: 80px;
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+    background-color: $purple3;
+    border: solid 2px $purple3;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.member-client .sec1 .box p:first-of-type {
+    margin-bottom: 15px;
+}
+.member-client .sec1 .box p:nth-child(2) {
+    margin-bottom: 0px;
+}
+.member-client .sec1 .box p:last-of-type {
+    font-size: 0.9em;
+    color: $purple3;
+}
