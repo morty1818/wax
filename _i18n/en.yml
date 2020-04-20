@@ -1,6 +1,6 @@
 site:
   title: "eosDAC"
-  description: "The Community-Owned WAX Block Producer and DAC Enabler"
+  description: "The Community-Owned EOSIO Block Producer and DAC Enabler"
 header:
   #vote: "Vote eosdacserver"
   #mclient: "Member Client"
@@ -13,9 +13,8 @@ news:
   #prev: "Previous"
   #next: "Next"
 pages:
-  
   community: "WAX Guides"
-  tools: "Block Production"
+  token: "Block Production"
   news: "eosDAC Guild Reports"
   wax-news: "Wax News"
   
