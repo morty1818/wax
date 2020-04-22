@@ -1,0 +1,92 @@
+
+body {
+	font-family:Arial, Helvetica, sans-serif;
+
+		background-image : url("https://i.imgur.com/zG7cKqR.png");
+		background-repeat: no-repeat;
+		background-size: cover;
+	
+}
+p {
+	font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.5px;
+    color: #DDD;
+}
+a {
+	text-decoration:none;
+}
+/* Accordion */
+.accordion, .accordion * {
+	box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	
+	
+	
+}
+
+.accordion {
+	background : #242323;
+	overflow:hidden;
+	box-shadow:0px 1px 3px rgba(0,0,0,0.25);
+	border-radius:3px;
+	margin: 50px 400px 50px 400px;
+	
+
+	 
+}
+
+/* Section Title */
+.section-title {
+	background :  #3a3a3a;
+	display:inline-block;
+	border-bottom:1px solid #1a1a1a;
+	width:100%;
+	padding:15px;
+	transition:all linear 0.15s;
+	color:#fff;
+	font-size:18px;
+	text-shadow:0px 1px 0px #1b1b1b;
+	
+}
+
+.section-title.active,
+.section-title:hover {
+	background:#7C41BA;
+}
+
+.section:last-child .section-title {
+	border-bottom:none;
+}
+
+.section-title:after {
+/* Unicode character for "plus" sign (+) */	
+    content: '\02795';
+    font-size: 13px;
+    color: #FFF;
+    float: right;
+    margin-left: 5px;
+
+}
+
+.section-title.active:after {
+/* Unicode character for "minus" sign (-) */
+    content: "\2796";
+}
+
+/* Section Content */
+.section-content {
+	display:none;
+	padding:20px;
+}
+
+ h1{
+
+	margin: 50px 400px 50px 400px;
+	 color: #DDD
+}
+
+a {
+    color : #7C41BA
+}
