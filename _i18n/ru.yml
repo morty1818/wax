@@ -13,13 +13,11 @@ news:
   prev: "Обратно"
   next: "Вперед"
 pages:
-  why-vote: "Зачем голосовать за eosDAC?"
-  why-join: "Зачем присоединяться к eosDAC?"
-  why-launch: "Зачем запускать DAC?"
+ 
   community: "Сообщество"
-  tools: "Инструменты"
   news: "Новости"
   token: "Токены"
+  wax-news: "Wax News"
 newsletterForm:
   name: "Имя"
   email: "Почта *"
