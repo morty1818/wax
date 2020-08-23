@@ -1,9 +1,9 @@
 ![Why Vote?](/assets/home/vote-for-dac.svg)
 
-Vì Sao Nên Bỏ Phiếu Cho eosDAC?
+Why Vote for eosDAC?
 --------------------
 
-Là một người sở hữu EOS, bạn có quyền sở hữu trong EOS. Bỏ phiếu bầu cho Nhà Sản Xuất Khối EOS giống như bỏ phiếu bầu cho người chăm sóc tài sản của bạn. Người mà bạn chọn lựa sẽ chăm sóc các vấn đề về tài sản của bạn.
+As an EOS tokenholder, you have an ownership stake in EOS. Voting for an EOS Block Producer is like voting for who takes care of your property. Who you choose to take care of your property matters.
 <br><br>
 
-[Đọc thêm]({% translate_link why-vote %})
+[Read more]({% translate_link why-vote %})

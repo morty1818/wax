@@ -1,7 +1,10 @@
-Сообщество-**производитель блоков EOS** и **разработчик DAC**
-==============================================================
+#  **Worldwide Asset eXchange™**
+
+### **SIMPLE. INSTANT. SECURE. GLOBAL.**
+
+The safest and most convenient way to create, buy, sell, and trade virtual items - to anyone, anywhere in the world.
 
 <!--
-[Посмотреть Видео](https://www.youtube.com/watch?v=PbQpAJOP6iA){: .btn.solid.light }
-[Узнать больше]({% translate_link why-vote %}){: .btn.outline.light }
+[Watch Video](https://www.youtube.com/watch?v=k2efWaUvDC0){: .btn.solid.light }
+[Learn more]({% translate_link why-vote %}){: .btn.outline.light }
 -->
