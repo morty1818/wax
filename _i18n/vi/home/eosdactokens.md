@@ -1,10 +1,11 @@
-**Token EOSDAC dùng** để làm gì?
+What does the **EOSDAC token do?**
 ===
 
-* Token EOSDAC cung cấp cho chủ sở hữu **khả năng đăng ký trở thành thành viên của eosDAC** theo thỏa thuận của [hiến pháp](https://members.eosdac.io/constitution) trong [cổng thành viên](https://members.eosdac.io). Càng nhiều token, bạn càng có nhiều lợi ích.
-* Trở thành thành viên eosDAC cung cấp cho người sở hữu token đã đăng ký có khả năng [bỏ phiếu và bầu Người Giám Hộ](https://members.eosdac.io/votecustodians) để đại diện cho người sở hữu token. Các người giám hộ sẽ quyết định cách phân bổ doanh thu của DAC thông qua việc ký duyệt đa chữ ký các đề xuất công việc trên chuỗi.
-* Thành viên eosDAC và/hoặc người sở hữu token có thể nhận được các airdrop từ các dự án sử dụng "NHÀ MÁY SẢN XUẤT DAC" của eosDAC để khởi tạo các DAC riêng của họ.
-* Người sở hữu token EOSDAC đã đăng ký sẽ có đủ điều kiện nộp các đề xuất công việc để làm việc được trả công cho hệ sinh thái eosDAC hoặc EOS.
-* Người sở hữu token EOSDAC đã đăng ký có thể có quyền nhận phân phối lợi nhuận nếu hội đồng Giám Hộ được bầu bỏ phiếu phê duyệt điều này.
+* EOSDAC tokens give the holders the **ability to become an eosDAC registered member** upon agreement of the [constitution](https://members.eosdac.io/constitution) on the [member client](https://members.eosdac.io). The more tokens you have the greater benefits you may have.
+* Being an eosDAC member gives registered token holders the ability to [vote for and elect Custodians](https://members.eosdac.io/votecustodians) to represent the token holder. Custodians will decide how to allocate the DAC's revenues through signing on-chain multi-sig worker proposals.
+* EOSDAC registered members and/or token holders may receive airdrops of projects that use the eosDAC "DAC FACTORY" to launch their own DACs with.
+* Registered EOSDAC token holders will be eligible to submit worker proposals to do paid work for eosDAC or EOS ecosystem. 
+* Registered EOSDAC token holders may be entitled to distribution of profits if the elected Custodian board votes to do this. 
 
-[Tìm Hiểu Thêm]({% translate_link token %}){: .btn.solid.dark.btn-raised }
+[Learn More]({% translate_link token %}){: .btn.solid.dark.btn-raised }
+

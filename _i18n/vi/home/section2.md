@@ -1,8 +1,8 @@
-Cổng Thành Viên eos**DAC**
+The eos**DAC Member Client**
 ============================
 
-Những người sở hữu token eosDAC được mời đăng nhập vào\\
-<https://members.eosdac.io>, để đăng ký Thành Viên của DAC\\
-và mở khóa các lợi ích đi kèm với token EOSDAC của họ.
+eosDAC token holders are invited to log on to\\
+<https://members.eosdac.io>, register as Members of the DAC\\
+and unlock the benefits that come with their EOSDAC tokens.
 
-[Tìm hiểu thêm]({% translate_link member-client %}){: .btn.solid.dark.btn-raised }
+[Learn more]({% translate_link member-client %}){: .btn.solid.dark.btn-raised }
